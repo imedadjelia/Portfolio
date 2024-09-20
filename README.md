@@ -20,3 +20,11 @@ Ces changements ont été réalisés dans les fichiers suivants :
 - `index.html` : Ajout et modification des sections, personnalisation du contenu.
 - `main.css` : Personnalisation des couleurs, marges, et typographies.
 - `main.js` : Ajout d'interactions dynamiques pour améliorer l'expérience utilisateur.
+
+# Aperçu 
+
+![Capture d'écran 2024-09-20 174850](https://github.com/user-attachments/assets/188a8e7d-fb67-4f5f-8f43-9219427e296a)
+
+![Capture d'écran 2024-09-20 175041](https://github.com/user-attachments/assets/507b0f76-699a-4dbe-bf56-67dbce6868f5)
+
+
